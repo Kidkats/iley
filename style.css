@@ -92,7 +92,7 @@
     }
   }
 
-  @media (max-width : 600px){
+  @media (max-width : 1000px){
     #container .surat{
         display: none;
         justify-content: center;
