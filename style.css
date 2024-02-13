@@ -97,8 +97,8 @@
         display: none;
         justify-content: center;
         align-items: center;
-        width: 400px;
-        height: 300px;
+        width: 90%;
+        height: 250px;
         border-radius: 50px;
         flex-direction: column;
         border: 10px solid black;
